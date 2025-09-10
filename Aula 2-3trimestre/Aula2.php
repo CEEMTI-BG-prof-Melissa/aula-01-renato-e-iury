@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Aula 02 PHP</title>
+        <title>Aula 03 PHP</title>
     </head>
     <body>
         <?php
